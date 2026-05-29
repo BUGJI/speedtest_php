@@ -468,7 +468,7 @@ if ($action !== '') {
         }
     }
     
-    startBtn.addEventListener('click'， runSpeedTest);
+    startBtn.addEventListener('click', runSpeedTest);
     updateStatus('点击按钮开始测速');
 </script>
 </body>
